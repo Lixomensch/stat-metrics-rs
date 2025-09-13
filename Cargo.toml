@@ -1,6 +1,14 @@
 [package]
 name = "stat-metrics-rs"
 version = "0.1.0"
+authors = ["João Pedro <joaopedro.eng18@gmail.com>"]
 edition = "2024"
+license = "MIT"
+description = "A Rust library providing common regression metrics and statistical utilities."
+repository = "https://github.com/Lixomensch/stat-metrics-rs"
+keywords = ["rust", "statistics", "metrics", "regression", "ml", "data-science"]
+categories = ["science", "statistics", "data-analysis"]
+readme = "README.md"
 
 [dependencies]
+# No external dependencies yet
