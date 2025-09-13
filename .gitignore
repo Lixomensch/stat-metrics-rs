@@ -1,0 +1,26 @@
+target# Rust/Cargo files
+/target/
+**/*.rs.bk
+
+# Package manager
+Cargo.lock
+
+# Editor/IDE files
+*.swp
+*.swo
+*.idea/
+*.vscode/
+*.DS_Store
+
+# Logs
+*.log
+
+# Build artifacts
+*.rlib
+*.dSYM/
+*.exe
+*.out
+*.obj
+
+# Examples / temp files
+/examples/*.tmp
